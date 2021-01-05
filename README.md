@@ -1,4 +1,4 @@
-# JetBrains_Academy_Zookeper
+# JetBrains Academy Zookeper
 ## python developer easy level project
 
 ---
