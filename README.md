@@ -1,5 +1,5 @@
 # JetBrains_Academy_Zookeper
-## python developer project easy level
+## python developer easy level project
 
 ---
 <ul>
@@ -12,4 +12,4 @@
 
 ---
 
-[jetbrains_academy_logo](https://blog.jetbrains.com/wp-content/uploads/2020/03/Banner.png)
+![jetbrains_academy_logo](https://blog.jetbrains.com/wp-content/uploads/2020/03/Banner.png)
