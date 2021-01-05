@@ -9,4 +9,7 @@
 
 <li>In folder Zookeeper located project tasks files.</li>
 </ul>
+
 ---
+
+[jetbrains_academy_logo](https://blog.jetbrains.com/wp-content/uploads/2020/03/Banner.png)
